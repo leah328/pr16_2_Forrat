@@ -1,0 +1,7 @@
+C:\Users\305-11\Desktop\forrat\console3\bin\Debug\console3.exe.config
+C:\Users\305-11\Desktop\forrat\console3\bin\Debug\console3.exe
+C:\Users\305-11\Desktop\forrat\console3\bin\Debug\console3.pdb
+C:\Users\305-11\Desktop\forrat\console3\obj\Debug\console3.csproj.AssemblyReference.cache
+C:\Users\305-11\Desktop\forrat\console3\obj\Debug\console3.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\forrat\console3\obj\Debug\console3.exe
+C:\Users\305-11\Desktop\forrat\console3\obj\Debug\console3.pdb

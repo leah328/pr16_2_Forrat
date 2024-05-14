@@ -1,0 +1,10 @@
+C:\Users\305-11\Desktop\forrat\form4\obj\Debug\form4.csproj.AssemblyReference.cache
+C:\Users\305-11\Desktop\forrat\form4\obj\Debug\form4.Form1.resources
+C:\Users\305-11\Desktop\forrat\form4\obj\Debug\form4.Properties.Resources.resources
+C:\Users\305-11\Desktop\forrat\form4\obj\Debug\form4.csproj.GenerateResource.cache
+C:\Users\305-11\Desktop\forrat\form4\obj\Debug\form4.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\forrat\form4\bin\Debug\form4.exe.config
+C:\Users\305-11\Desktop\forrat\form4\bin\Debug\form4.exe
+C:\Users\305-11\Desktop\forrat\form4\bin\Debug\form4.pdb
+C:\Users\305-11\Desktop\forrat\form4\obj\Debug\form4.exe
+C:\Users\305-11\Desktop\forrat\form4\obj\Debug\form4.pdb
